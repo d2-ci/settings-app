@@ -18,5 +18,8 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Tue Oct 02 2018 08:47:15 GMT+0000 (UTC)"
+  "dhis2": {
+    "apiVersion": "30"
+  },
+  "manifest_generated_at": "Wed Oct 03 2018 08:41:34 GMT+0000 (UTC)"
 }
