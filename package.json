@@ -1,14 +1,6 @@
 {
   "name": "settings-app",
-  "version": "29.0.2",
   "description": "Settings management application for DHIS2",
-  "main": "index.html",
-  "keywords": [
-    "DHIS2",
-    "HISP",
-    "Settings"
-  ],
-  "author": "Nicolay Ramm <nicolay@dhis2.org> (https://www.dhis2.org)",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/dhis2/settings-app#readme"
+  "version": "29.0.2"
 }
