@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/D2App/App.module.css"],"names":[],"mappings":"AAAA,wBACI,YACJ,CAEA,wBACI,WAAY,CACZ,kBACJ","file":"app.153dec28.chunk.css","sourcesContent":[".contentWrap {\n    display: flex;\n}\n\n.contentArea {\n    flex-grow: 1;\n    margin-bottom: 64px;\n}\n"]}
