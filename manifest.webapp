@@ -3,7 +3,7 @@
   "short_name": "settings",
   "name": "Settings",
   "description": "",
-  "version": "29.14.38",
+  "version": "29.14.39",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Thu Jul 06 2023 01:56:31 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Sat Jul 08 2023 01:57:36 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
