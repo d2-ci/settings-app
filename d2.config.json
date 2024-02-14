@@ -1,0 +1,9 @@
+{
+  "type": "app",
+  "name": "settings",
+  "title": "System Settings",
+  "coreApp": true,
+  "minDHIS2Version": "2.41",
+  "version": "99.9.9",
+  "description": ""
+}
