@@ -4,7 +4,7 @@
   "short_name": "settings",
   "name": "System Settings",
   "description": "",
-  "version": "100.7.4",
+  "version": "100.7.5",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Apr 15 2025 08:14:32 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Apr 15 2025 15:44:23 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
