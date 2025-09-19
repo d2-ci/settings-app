@@ -1,0 +1,160 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ar_EG",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "da",
+    "shortcuts": {}
+  },
+  {
+    "locale": "en",
+    "shortcuts": {
+      "General": "General",
+      "Analytics": "Analytics",
+      "Server": "Server",
+      "Appearance": "Appearance",
+      "Email": "Email",
+      "Access": "Access",
+      "Calendar": "Calendar",
+      "Data import settings": "Data import settings",
+      "Synchronozation": "Synchronozation",
+      "Scheduled job settings": "Scheduled job settings",
+      "OAuth2 clients": "OAuth2 clients"
+    },
+    "title": "System Settings",
+    "description": ""
+  },
+  {
+    "locale": "es",
+    "shortcuts": {}
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {}
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {}
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {}
+  },
+  {
+    "locale": "id",
+    "shortcuts": {}
+  },
+  {
+    "locale": "km",
+    "shortcuts": {}
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {}
+  },
+  {
+    "locale": "my",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "or",
+    "shortcuts": {}
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {}
+  },
+  {
+    "locale": "si",
+    "shortcuts": {}
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {}
+  }
+]
