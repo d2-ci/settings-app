@@ -36,6 +36,7 @@
       "Data import settings": "Data import settings",
       "Synchronization": "Synchronization",
       "Scheduled job settings": "Scheduled job settings",
+      "Notification settings": "Notification settings",
       "OAuth2 clients": "OAuth2 clients"
     },
     "title": "System Settings",

@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Mon Sep 22 2025 10:12:46 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed Sep 24 2025 09:26:37 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
@@ -60,6 +60,10 @@
     {
       "name": "Scheduled job settings",
       "url": "#/scheduledJobs"
+    },
+    {
+      "name": "Notification settings",
+      "url": "#/notification"
     },
     {
       "name": "OAuth2 clients",
