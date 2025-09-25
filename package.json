@@ -1,6 +1,6 @@
 {
     "name": "settings-app",
-    "version": "100.9.1",
+    "version": "100.10.0",
     "description": "",
     "license": "BSD-3-Clause",
     "private": true,
@@ -18,7 +18,7 @@
         "format": "yarn format:js && yarn format:text"
     },
     "devDependencies": {
-        "@dhis2/cli-app-scripts": "^12.3.0",
+        "@dhis2/cli-app-scripts": "^12.8.0",
         "@dhis2/cli-style": "^10.7.6"
     },
     "dependencies": {

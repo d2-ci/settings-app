@@ -4,7 +4,7 @@
   "short_name": "settings",
   "name": "System Settings",
   "description": "",
-  "version": "100.9.1",
+  "version": "100.10.0",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,8 +16,58 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Fri Aug 08 2025 09:05:50 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Sep 25 2025 12:32:41 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "General",
+      "url": "#/general"
+    },
+    {
+      "name": "Analytics",
+      "url": "#/analytics"
+    },
+    {
+      "name": "Server",
+      "url": "#/server"
+    },
+    {
+      "name": "Appearance",
+      "url": "#/appearance"
+    },
+    {
+      "name": "Email",
+      "url": "#/email"
+    },
+    {
+      "name": "Access",
+      "url": "#/access"
+    },
+    {
+      "name": "Calendar",
+      "url": "#/calendar"
+    },
+    {
+      "name": "Data import settings",
+      "url": "#/import"
+    },
+    {
+      "name": "Synchronization",
+      "url": "#/sync"
+    },
+    {
+      "name": "Scheduled job settings",
+      "url": "#/scheduledJobs"
+    },
+    {
+      "name": "Notification settings",
+      "url": "#/notification"
+    },
+    {
+      "name": "OAuth2 clients",
+      "url": "#/oauth2"
+    }
+  ]
 }
