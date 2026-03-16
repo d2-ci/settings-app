@@ -55,7 +55,7 @@
       "url": "#/oauth2"
     }
   ],
-  "version": "100.15.1",
+  "version": "100.15.2",
   "description": "",
   "entryPoints": {
     "app": "index.html"
